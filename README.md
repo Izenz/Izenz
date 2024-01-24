@@ -1,7 +1,7 @@
 ## About me 🌱
 - 👋 Hello World! My name is Joel, I'm a Multimedia Engineer graduate with a passion for videogames and coding.
-- 🎯 Currently trying to break through the videogame industry by landing my first job.
-- 💬 Talk to me about games, esports, regular sports, anything! Always willing to chat for a while and make new friends.
+- 🎯 Currently on the grind as a Junior C++ Programmer for Zitro.
+- 💬 Talk to me about games, esports, regular sports, anything! Always willing to chat for a bit.
 - 📚 I’m currently learning Korean language!
 
 ## How to reach me 📫
