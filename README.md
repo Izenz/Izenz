@@ -1,9 +1,16 @@
+<div align="center">
+  
 ## About me 🌱
-- 👋 Hello World! My name is Joel, I'm a Multimedia Engineer graduate with a passion for videogames and coding.
-- 🎯 Currently working as a Junior C++ Programmer for Zitro Games.
-- 💬 You can talk to me about programming, games, esports, regular sports, anything!.
+
+</div>
+
+- 👋 Hello World! My name is Joel and I'm a Software Engineer with a passion for videogames and coding.
+- 🎯 Currently working as a C++ Developer for Zitro Games.
+- 💬 You can talk to me about programming, games, esports, tech... anything!.
 - 📚 I’m currently learning Korean language!
 
+<div align="center">
+  
 ## How to reach me 📫
 
 [![Static Badge](https://img.shields.io/badge/joel--herraiz-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoel-herraiz%2F)](https://www.linkedin.com/in/joel-herraiz/)
@@ -12,27 +19,16 @@
 [![Steam Badge](https://img.shields.io/badge/Izen-3243FF?logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198097821712%2F)](https://steamcommunity.com/profiles/76561198097821712/)
 
 
-
-<div align="center">
+## Tech Stack
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/black/white"> <img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/black/white"> <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/white">
 
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izenz&layout=compact&langs_count=8&exclude_repo=Izenz.github.io) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
+[![Top Langs](https://github-readme-stats-phi-seven-84.vercel.app/api/top-langs/?username=Izenz&theme=dark)](https://github.com/Izenz/github-readme-stats)
+
+<br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
 
 </div>
-
-<!--
-**Izenz/Izenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
